@@ -1,4 +1,4 @@
-# Hi there, I'm Hà Tiến Trung (CunLucLac-His) 👋
+# Hi there, I'm Hà Tiến Trung  👋
 ### 🚀 Full-Stack Engineer & FinTech Enthusiast
 
 An IT Student in my final semester, passionate about building high-performance web applications and exploring the intersection of technology and financial markets. Currently focusing on robust backend architectures, modern frontend interfaces, and clean code.
@@ -25,14 +25,6 @@ An IT Student in my final semester, passionate about building high-performance w
 
 ---
 
-### 📈 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CunLucLac-His&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="Trung's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CunLucLac-His&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect with me
 
