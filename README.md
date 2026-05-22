@@ -31,7 +31,7 @@ An IT Student in my final semester, passionate about building high-performance w
 <p align="left">
   <a href="https://linkedin.com/in/h%C3%A0-ti%E1%BB%BFn-trung-31b45a40b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  https://www.linkedin.com/in/h%C3%A0-ti%E1%BA%BFn-trung-31b45a40b/</a>
   <a href="mailto:htrung23112003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
